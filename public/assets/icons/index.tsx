@@ -1,0 +1,14 @@
+export { default as HomeIcon } from "./sidebar/HomeIcon";
+export { default as OrderIcon } from "./sidebar/OrderIcon";
+export { default as ProductIcon } from "./sidebar/ProductIcon";
+export { default as ChatIcon } from "./sidebar/ChatIcon";
+export { default as RoleIcon } from "./sidebar/RoleIcon";
+export { default as OrderPickUpIcon } from "./sidebar/OrderPickUpIcon";
+export { default as UploadIcon } from "./products/UploadIcon";
+export { default as DropDownIcon } from "./products/DropdownIcon";
+export { default as DecrementIcon } from "./products/DecrementIcon";
+export { default as IncreamentIcon } from "./products/IncreamentIcon";
+export { default as Play } from "./play";
+export { default as Pause } from "./pause";
+export { default as PickupDesign } from "./pick-up-design";
+export { default as Printer } from "./printer";
